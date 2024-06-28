@@ -9,8 +9,7 @@
         "url": "https://github.com/nocordjs/nocord.js"
     },
     "scripts": {
-        "build": "tsup",
-        "publish": "npm publish"
+        "build": "tsup"
     },
     "keywords": [],
     "author": "",
