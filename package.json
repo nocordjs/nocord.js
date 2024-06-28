@@ -11,6 +11,12 @@
     "scripts": {
         "build": "tsup"
     },
+    "publishConfig": {
+        "access": "public"
+    },
+    "files": [
+        "dist"
+    ],
     "keywords": [],
     "author": "",
     "license": "MIT",
