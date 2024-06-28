@@ -1,7 +1,6 @@
 node_modules
 .env
-dist
-disz.zip
+src
 
 tsconfig.json
 tsup.config.ts
